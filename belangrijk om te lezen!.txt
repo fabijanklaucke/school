@@ -1,0 +1,23 @@
+Voor deze code in het specifiek heb je geen extra "packages" nodig 
+
+Je kan extra packages installeren hieronder een lijst met mijn packages om dit soort code's te laten werken
+
+beautifulsoup4	4.12.3	4.12.3
+certifi	2024.12.14	2024.12.14
+charset-normalizer	3.4.1	3.4.1
+idna	3.10	3.10
+lxml	5.3.0	5.3.0
+numpy	2.2.1	2.2.1
+pandas	2.2.3	2.2.3
+pip	23.2.1	24.3.1
+python-dateutil	2.9.0.post0	2.9.0.post0
+pytrends	4.9.2	4.9.2
+pytz	2024.2	2024.2
+requests	2.32.3	2.32.3
+six	1.17.0	1.17.0
+soupsieve	2.6	2.6
+tzdata	2024.2	2024.2
+urllib3	2.3.0	2.3.0
+
+Dit zijn packages die ook API keys kunnen lezen als je die hebt voor data uit een website halen
+Zorg er wel voor dat pandas en numpy en pip zijn geinstalleerd dit helpt om het programma soepeler te laten runnen als je er modificaties aan wilt brengen om data uit HTTP:S links te halen of andere URL's
